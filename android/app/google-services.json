@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492240817493",
+    "project_id": "workshop-cdd26",
+    "storage_bucket": "workshop-cdd26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492240817493:android:b10385ded8fcdaa94973dc",
+        "android_client_info": {
+          "package_name": "com.example.app_workshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnfLCTmpBelFwlwdP04fpYL9BlNUUPPxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
